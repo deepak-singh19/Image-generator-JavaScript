@@ -1,0 +1,30 @@
+.container_1
+{
+    border: 2px solid black;
+    padding: 1px;
+    text-align: center;
+}
+
+.container_2
+{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_3
+{
+    text-align: center;
+    border: 1px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.container_3 img
+{
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
